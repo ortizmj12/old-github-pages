@@ -47,5 +47,6 @@ vendor/*
 # Ruby Ignored Paths
 .bundle
 Gemfile.lock
+.sass-cache/
 
 Gemfile.lock
