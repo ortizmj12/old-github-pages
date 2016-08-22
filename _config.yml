@@ -1,25 +1,25 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+gems:
+- jekyll-paginate
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Mike Ortiz
-description:      'Security Engineer, DFIR'
+title:            Michael Ortiz
+description:      'Security Engineer'
 url:              https://ortizmj12.github.io
 baseurl:          /
 
 author:
-  name:           'Mike Ortiz'
-  url:            https://twitter.com/lorddicranius
+  name:           'Michael Ortiz'
+  url:            https://twitter.com/ortizmj12
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 
 twitter:
   url:            https://www.twitter.com/lorddicranius
