@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-- Former sysadmin
-- Security Engineer doing DFIR stuff
+- Sysadmin turned Security Engineer
 - Lockpicker
 - Wannabe speedcuber
-- Gamer
